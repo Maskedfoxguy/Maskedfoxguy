@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maskedfoxguy
+- 👋 Hi, I’m Adam Epinger
 - 👀 I’m interested in webdesign, webdevelopement, game developement
 - 🌱 I’m currently learning front and back end developement
 
