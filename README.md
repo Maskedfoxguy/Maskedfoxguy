@@ -1,4 +1,4 @@
-👋 Hi, I’m Adam (aka Maskedfoxguy)
+👋 Hi, I’m Adam (Maskedfoxguy)
 
 I’m a web developer with a background in hospitality and UX-driven thinking.  
 I like building practical things: tools that reduce friction, improve workflows, or simply make sense.
